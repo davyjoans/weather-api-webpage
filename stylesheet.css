@@ -1,0 +1,105 @@
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.one {
+    border: 3px solid white;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-bottom: 5vw;
+    padding: 10px;
+    display: inline-block;
+}
+
+#oneSky {
+    text-transform: capitalize;
+}
+
+.two {
+    border: 3px solid white;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-bottom: 5vw;
+    padding: 10px;
+    display: inline-block;
+}
+
+#twoSky {
+    text-transform: capitalize;
+}
+
+.three {
+    border: 3px solid white;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-bottom: 5vw;
+    padding: 10px;
+    display: inline-block;
+}
+
+#threeSky {
+    text-transform: capitalize;
+}
+
+.four {
+    border: 3px solid white;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-bottom: 5vw;
+    padding: 10px;
+    display: inline-block;
+}
+
+#fourSky {
+    text-transform: capitalize;
+}
+
+.five {
+    border: 3px solid white;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-bottom: 5vw;
+    padding: 10px;
+    display: inline-block;
+}
+
+#fiveSky {
+    text-transform: capitalize;
+}
+
+.six {
+    border: 3px solid white;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-bottom: 5vw;
+    padding: 10px;
+    display: inline-block;
+}
+
+#sixSky {
+    text-transform: capitalize;
+}
+
+.seven {
+    border: 3px solid white;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-bottom: 5vw;
+    padding: 10px;
+    display: inline-block;
+}
+
+#sevenSky {
+    text-transform: capitalize;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
